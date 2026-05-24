@@ -1,0 +1,6 @@
+# .streamlit/config.toml
+[client]
+showSidebarNavigation = false
+
+[runner]
+enforceSerializableSessionState = true

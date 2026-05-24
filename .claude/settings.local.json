@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\domho\\\\Study_LLM_Personalization_Streamlit\" -Recurse -Force)",
+      "Bash(Select-Object -First 100)",
+      "Bash(git commit -m ' *)",
+      "Bash(git rm *)",
+      "Bash(git add *)"
+    ]
+  }
+}
