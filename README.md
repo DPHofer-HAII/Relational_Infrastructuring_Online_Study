@@ -1,2 +1,1 @@
-# Study_LLM_Personalization_Streamlit
- The repository for the questionnaire that was implemented in Streamlit for the LLM Personalization
+Code and data for the paper "Personality as Relational Infrastructuring: User Perceptions of Personality-Trait Infused LLM Messaging".
